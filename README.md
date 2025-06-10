@@ -19,6 +19,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeneshKS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeneshKS&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeneshKS&hide=contribs,prs)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SreeneshKS&theme=radical)
 ---
 📊 **Profile Visits:** ![Visitor Count](https://komarev.com/ghpvc/?username=SreeneshKS&color=blue)  
 ### **🛠️ Tech Stack**  
