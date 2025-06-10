@@ -1,16 +1,21 @@
-## Hi there 👋
+### 🚀 Sreenesh K S  
+**⚡ Electronics Engineer | VLSI & Embedded Enthusiast | AI/DS Minor**  
 
-<!--
-**SREENESHKS/SREENESHKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Pursuing BTech in ECE** with *Minor in AI & Data Science*  
+🔬 **Core Interests:** VLSI Design • Verilog • ASIC/FPGA Verification • Embedded Systems  
+🐍 **Tech Stack:** Python • SQL • MATLAB • Cadence • Xilinx Vivado  
 
-Here are some ideas to get you started:
+🔥 **Projects:**  
+- 📟 **TRNG Accelarator Design, Verification and evaluation in FPGA & ASIC** (Verilog-based testbench)   
+- 🤖 **Telecare Smart-Door Assistance for Bedridden Patients** (Embedded C + ESP+Twilio+Telegram)  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:** System Verilog & UVM • Formal Verification 
+
+
+📫 **Let’s Connect:**  
+[![LinkedIn](https://www.linkedin.com/in/sreenesh-ks/)  
+[![Email](sreenesh.k.s012@gmail.com <sreenesh.k.s012@gmail.com>;)  
+
+---
+📊 **Profile Visits:** ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)  
