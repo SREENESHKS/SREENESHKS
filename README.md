@@ -18,7 +18,8 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreenesh.k.s012@gmail.com)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeneshKS&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeneshKS)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeneshKS&hide=contribs,prs)
 ---
 📊 **Profile Visits:** ![Visitor Count](https://komarev.com/ghpvc/?username=SreeneshKS&color=blue)  
