@@ -1,6 +1,5 @@
 ### 🚀 Sreenesh K S  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeneshKS&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeneshKS&layout=compact&theme=radical)
+
 **⚡ Electronics Engineer | VLSI & Embedded Enthusiast | AI/DS Minor**  
 
 📌 **Pursuing BTech in ECE** with *Minor in AI & Data Science*  
