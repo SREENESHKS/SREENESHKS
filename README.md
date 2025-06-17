@@ -10,7 +10,7 @@
 - 📟 **TRNG Accelerator Design, Verification and Evaluation in FPGA & ASIC**  
   *(Verilog-based design + testbench for true random number generation using ring oscillators and Von Neumann Debiasing)*  
 - 🤖 **Telecare Smart-Door Assistance for Bedridden Patients**  
-  *(Embedded C with ESP8266, Twilio API, and Telegram Bot for real-time door control)*  
+  *(Embedded C with ESP32 Camera & Wroom module, Twilio API, and Telegram Bot for real-time door control)*  
 - 🖼️ **DCT-Based Image Watermarking System in MATLAB**  
   *(MATLAB App Designer GUI + Live Script for invisible watermark embedding and extraction with noise resilience testing)*
 
