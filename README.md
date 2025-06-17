@@ -7,8 +7,13 @@
 🐍 **Tech Stack:** Python • SQL • MATLAB • Cadence • Xilinx Vivado  
 
 🔥 **Projects:**  
-- 📟 **TRNG Accelarator Design, Verification and evaluation in FPGA & ASIC** (Verilog-based testbench)   
-- 🤖 **Telecare Smart-Door Assistance for Bedridden Patients** (Embedded C + ESP+Twilio+Telegram)  
+- 📟 **TRNG Accelerator Design, Verification and Evaluation in FPGA & ASIC**  
+  *(Verilog-based design + testbench for true random number generation using ring oscillators and Von Neumann Debiasing)*  
+- 🤖 **Telecare Smart-Door Assistance for Bedridden Patients**  
+  *(Embedded C with ESP8266, Twilio API, and Telegram Bot for real-time door control)*  
+- 🖼️ **DCT-Based Image Watermarking System in MATLAB**  
+  *(MATLAB App Designer GUI + Live Script for invisible watermark embedding and extraction with noise resilience testing)*
+
  
 
 🌱 **Currently Learning:** System Verilog & UVM • Formal Verification 
