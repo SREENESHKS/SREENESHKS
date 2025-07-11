@@ -1,6 +1,6 @@
 ### 🚀 Sreenesh K S  
 
-**⚡ Electronics Engineer | VLSI & Embedded Enthusiast | AI/DS Minor**  
+**⚡ Electronics Engineer | VLSI & Communication Enthusiast | AI Minor**  
 
 📌 **Pursuing BTech in ECE** with *Minor in AI*  
 🔬 **Core Interests:** VLSI Design • Verilog • ASIC/FPGA Verification •Antenna Design • Embedded Systems  
