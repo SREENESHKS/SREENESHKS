@@ -2,9 +2,9 @@
 
 **⚡ Electronics Engineer | VLSI & Embedded Enthusiast | AI/DS Minor**  
 
-📌 **Pursuing BTech in ECE** with *Minor in AI & Data Science*  
-🔬 **Core Interests:** VLSI Design • Verilog • ASIC/FPGA Verification • Embedded Systems  
-🐍 **Tech Stack:** Python • SQL • MATLAB • Cadence • Xilinx Vivado  
+📌 **Pursuing BTech in ECE** with *Minor in AI*  
+🔬 **Core Interests:** VLSI Design • Verilog • ASIC/FPGA Verification •Antenna Design • Embedded Systems  
+🐍 **Tech Stack:** •Verilog  Python • SQL • MATLAB • Cadence • Xilinx Vivado  
 
 🔥 **Projects:**  
 - 📟 **TRNG Accelerator Design, Verification and Evaluation in FPGA & ASIC**  
