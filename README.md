@@ -4,7 +4,7 @@
 
 📌 **Pursuing BTech in ECE** with *Minor in AI*  
 🔬 **Core Interests:** VLSI Design • Verilog • ASIC/FPGA Verification •Antenna Design • Embedded Systems  
-🐍 **Tech Stack:** •Verilog  Python • SQL • MATLAB • Cadence • Xilinx Vivado  
+🐍 **Tech Stack:** •Verilog •HFSS • Python • SQL • MATLAB • Cadence • Xilinx Vivado  
 
 🔥 **Projects:**  
 - 📟 **TRNG Accelerator Design, Verification and Evaluation in FPGA & ASIC**  
