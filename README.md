@@ -18,7 +18,6 @@
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DA291C?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence-FF0000?style=for-the-badge)
 ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge)
 
 **Programming & Data Science**  
@@ -26,11 +25,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**AI/ML & Web Technologies**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 </div>
 
@@ -108,9 +104,9 @@
 
 <div align="center">
 
-![Sreenesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeneshKS&show_icons=true&theme=radical&hide_border=true)
+![Sreenesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreeneshKS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeneshKS&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeneshKS&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SreeneshKS&theme=radical&hide_border=true)
 
