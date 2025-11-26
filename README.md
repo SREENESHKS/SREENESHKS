@@ -43,7 +43,7 @@
 
 <div align="center">
   
-![AI Interview System](https://img.shields.io/badge/🤖_AI_Interview_System-8A2BE2?style=for-the-badge)
+
 
 </div>
 
@@ -104,7 +104,6 @@
 - 📝 **Live Script Documentation** for educational purposes
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -116,6 +115,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SreeneshKS&theme=radical&hide_border=true)
 
 </div>
+
 
 ---
 
