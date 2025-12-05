@@ -1,6 +1,6 @@
 ### 🚀 Sreenesh K S  
 
-**⚡ Electronics Engineer | VLSI & Communication Enthusiast | AI Minor**  
+**⚡ Electronics Engineer |Microwave and Antenna | VLSI & Communication Enthusiast | AI Minor**  
 
 🎓 **Pursuing BTech in ECE** with *Minor in Artificial Intelligence & Data Science*  
 📍 Kochi, Kerala, India
