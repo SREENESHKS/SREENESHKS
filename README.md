@@ -51,6 +51,7 @@
 - ✅ 189.5 MHz bandwidth (373% improvement)
 - ✅ SAR <1.6 W/kg
 - ✅ Imaging-ready EM field output
+---
 
 ### 🤖 **AI-Powered Interview Preparation System**
 *AI Minor Project | Streamlit • Gemini AI • Sentence-BERT • gTTS*
