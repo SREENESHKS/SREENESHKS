@@ -34,6 +34,24 @@
 
 ## 🌟 Featured Projects
 
+### 📡 Biomedical Microstrip Patch Antenna With DGS for Tumor Localization
+*RF & Microwave Engineering | HFSS • CST • MATLAB • Biomedical Imaging*
+
+**Tech Stack:** `ANSYS HFSS` `CST Studio` `MATLAB` `Python` `Electromagnetics`
+
+**Key Features:**
+- 📡 ISM-band Antenna (2.4–2.45 GHz) engineered for biomedical sensing
+- 🧩 Inverted-U Slot + Dumbbell DGS for bandwidth/matching improvement
+- 🔬 SAR evaluation for safe biomedical exposure
+- 🏥 Breast-tissue phantom simulation
+- 📊 Signal processing & imaging pipeline for tumor localization
+
+**Achievements:**
+- ✅ −20.73 dB return loss
+- ✅ 189.5 MHz bandwidth (373% improvement)
+- ✅ SAR <1.6 W/kg
+- ✅ Imaging-ready EM field output
+
 ### 🤖 **AI-Powered Interview Preparation System**
 *AI Minor Project | Streamlit • Gemini AI • Sentence-BERT • gTTS*
 
